@@ -1,0 +1,14 @@
+{
+  "illustrations": "Original AI-generated editorial illustrations for PeerSpace. Conceptual scenes; not photographs or architectural maps.",
+  "grammarly-icon": {
+    "source": "https://static-web.grammarly.com/cms/master/public/favicon-32x32.png",
+    "website": "https://www.grammarly.com/",
+    "usage": "Identifies the Grammarly resource"
+  },
+  "nlu-entrance": {
+    "description": "Original generated illustration based on the NLU entrance at 122 South Michigan Avenue.",
+    "architectural_reference": "https://nl.edu/media/160425-tulips-016.jpg",
+    "reference_page": "https://nl.edu/about/locations/"
+  },
+  "additional-class-resources": "15 original AI-generated topic illustrations for GEN 103 class-shared resources, matching the established PeerSpace paper-cut visual style. Conceptual illustrations, not official department logos."
+}
